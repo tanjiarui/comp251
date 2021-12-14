@@ -1,0 +1,10 @@
+Load the below text into an RDD variable named mywords_firstname, where firstname is your firstname specify the RDD to be spread over four partitions.  Take a screenshot screenshot1 of the code you used. (Hint you might need to load into a python list structure then into an RDD or a txt file) (2 mark)
+
+    Name the partition mywords_firstname_niagara.  (2 mark)
+    Display the name of the partition using the name method. Take a screenshot screenshot2 of the code and the output. (2 mark)
+    Display a count of all the unique words in the RDD. Take a screenshot screenshot3 of the code and the output. (3 mark)
+    Retrieve and show all the words that start with F i.e. F capital Take a screenshot screenshot4 of the code and the output. (6 mark)
+    Show the count of all the words that start with F capital. Take a screenshot screenshot5 of the code and the output. (3 mark)
+    Using the reduce function retrieve and show the longest word in the text. Take a screenshot screenshot6 of the code and the output. (6 mark)
+    Using the reduce function retrieve and show the shortest word in the text. Take a screenshot screenshot7 of the code and the output. (3 mark)
+    In your own words explain what the reduce method does. Write your response in the below text box.  (3 mark)
